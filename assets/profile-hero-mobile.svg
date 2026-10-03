@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="710" viewBox="0 0 600 710" role="img" aria-labelledby="mobile-title mobile-desc">
+<title id="mobile-title">Franco Compañy · Diseño digital + IA</title><desc id="mobile-desc">De una idea a una experiencia. Versión vertical con una animación decorativa de idea, interfaz y experiencia.</desc>
+<defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#242722" opacity=".12"/></pattern>
+    <clipPath id="round"><rect width="1200" height="520" rx="24"/></clipPath>
+  </defs><style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#21241e}
+    .mono{font-family:'Courier New',monospace;font-size:13px;letter-spacing:1.8px}
+    .orbit{transform-origin:865px 260px;animation:orbit 28s linear infinite}
+    .cursor{animation:cursor 8s ease-in-out infinite}
+    .pulse{animation:pulse 8s ease-in-out infinite}
+    .trace{stroke-dasharray:7 10;animation:trace 8s linear infinite}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes cursor{0%,100%{transform:translate(0,0)}45%,60%{transform:translate(-20px,-14px)}}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes trace{to{stroke-dashoffset:-68}}
+    @media(prefers-reduced-motion:reduce){.orbit,.cursor,.pulse,.trace{animation:none!important}}
+  </style>
+<rect width="600" height="710" rx="24" fill="#f3f2e9"/>
+<text x="36" y="45" class="mono">FC / VELLXW</text><circle cx="205" cy="39" r="4" fill="#737964"/>
+<text x="31" y="151" font-size="91" font-weight="700" letter-spacing="-5">Franco</text>
+<text x="31" y="242" font-size="91" font-weight="700" letter-spacing="-5">Compañy<tspan fill="#6b7850">.</tspan></text>
+<text x="36" y="291" font-size="29">Diseño digital + IA</text>
+<text x="36" y="333" font-size="20">De una idea a una experiencia.</text>
+<path d="M36 362H564" stroke="#21241e" opacity=".2"/>
+<g transform="translate(-550 283) scale(.92)"><g fill="none" stroke="#21241e">
+      <circle cx="865" cy="260" r="159" opacity=".16"/>
+      <circle cx="865" cy="260" r="124" opacity=".12"/>
+      <path d="M705 260H1025M865 101V419" opacity=".09"/>
+    </g>
+    <g class="orbit"><circle cx="865" cy="101" r="7" fill="#21241e"/><circle cx="865" cy="419" r="4" fill="#738052"/></g>
+    <path d="M737 184C815 163 825 285 900 273S962 347 1034 356" fill="none" stroke="#697453" stroke-width="2" class="trace"/>
+    <!-- IDEA: a small, intentionally unfinished sketch. -->
+    <g transform="translate(669 132) rotate(-7 54 54)">
+      <rect width="108" height="108" rx="13" fill="#f3f2e9" stroke="#21241e" stroke-width="1.5"/>
+      <path d="M25 54H83M54 25V83M34 34L74 74M34 74L74 34" stroke="#21241e" stroke-width="2"/>
+      <circle cx="54" cy="54" r="12" fill="#d2ed75" stroke="#21241e" stroke-width="1.5"/>
+    </g>
+    <text x="685" y="270" class="mono">01 / IDEA</text>
+    <!-- INTERFACE: an original miniature design canvas. -->
+    <g transform="translate(800 178)">
+      <rect x="7" y="9" width="228" height="165" rx="14" fill="#21241e" opacity=".09"/>
+      <rect width="228" height="165" rx="14" fill="#d2ed75" stroke="#21241e" stroke-width="1.5"/>
+      <path d="M0 30H228" stroke="#21241e" stroke-width="1.5"/>
+      <circle cx="16" cy="15" r="3" fill="#21241e"/>
+      <circle cx="27" cy="15" r="3" fill="#21241e" opacity=".35"/>
+      <circle cx="38" cy="15" r="3" fill="#21241e" opacity=".2"/>
+      <text x="211" y="19" text-anchor="end" font-size="9" letter-spacing="1">PROTOTIPO</text>
+      <rect x="20" y="50" width="78" height="93" rx="7" fill="#21241e"/>
+      <circle cx="59" cy="82" r="16" fill="#d2ed75"/>
+      <path d="M38 118H80M47 127H71" stroke="#d2ed75" stroke-width="3" stroke-linecap="round"/>
+      <rect x="114" y="53" width="94" height="8" rx="4" fill="#21241e"/>
+      <rect x="114" y="72" width="69" height="5" rx="2.5" fill="#21241e" opacity=".35"/>
+      <rect x="114" y="84" width="84" height="5" rx="2.5" fill="#21241e" opacity=".2"/>
+      <rect x="114" y="113" width="94" height="30" rx="15" fill="#f3f2e9" stroke="#21241e"/>
+      <path d="M148 128H174M169 123L174 128L169 133" fill="none" stroke="#21241e" stroke-width="1.5"/>
+    </g>
+    <text x="800" y="374" class="mono">02 / INTERFAZ</text>
+    <g class="cursor">
+      <path d="M1000 305L1004 338L1013 328L1028 325Z" fill="#21241e" stroke="#f3f2e9" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <!-- EXPERIENCE: the completed interaction. -->
+    <g transform="translate(1058 310)">
+      <circle cx="0" cy="0" r="42" fill="#f3f2e9" stroke="#21241e" stroke-width="1.5"/>
+      <circle cx="0" cy="0" r="33" fill="#d2ed75" class="pulse"/>
+      <path d="M-13 0L-4 9L14-10" fill="none" stroke="#21241e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="1037" y="393" text-anchor="middle" class="mono">03 / EXPERIENCIA</text>
+    </g>
+</svg>
