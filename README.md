@@ -5,7 +5,7 @@
   <img src="./assets/profile-hero.gif" width="1200" alt="Franco Compañy. Diseño digital + IA. De una idea a una experiencia.">
 </picture>
 
-[Portfolio ↗](https://www.behance.net/francocompay) · [Hablemos ↗](mailto:francocompany01@gmail.com)
+[Portfolio](https://www.behance.net/francocompay) · [Hablemos](mailto:francocompany01@gmail.com)
 
 ## Diseño experiencias. Construyo para probarlas.
 
@@ -23,7 +23,7 @@ En este espacio conviven diseño, prototipos y desarrollo: distintas formas de p
 
 Un proyecto que conecta atención por WhatsApp, CRM y agenda con IA. Una exploración de cómo organizar conversaciones, información y acciones en una experiencia de producto.
 
-[Explorar el sitio ↗](https://agentesimple.com.ar/)
+[Explorar el sitio](https://agentesimple.com.ar/)
 
 <br>
 
@@ -35,7 +35,7 @@ Un proyecto que conecta atención por WhatsApp, CRM y agenda con IA. Una explora
 
 Un prototipo editorial gamer para explorar noticias, lanzamientos y seguimiento personalizado. Construido con Next.js, React, TypeScript y Tailwind.
 
-[Ver el proyecto y su código ↗](https://github.com/vellxw/LevelUp)
+[Ver el proyecto y su código](https://github.com/vellxw/LevelUp)
 
 <br>
 
@@ -47,7 +47,7 @@ Un prototipo editorial gamer para explorar noticias, lanzamientos y seguimiento 
 
 Un caso de diseño enfocado en el onboarding de una aplicación de recetas. Flujos, exploración y prototipado en Figma y FigJam, en colaboración con Oriana Capurro.
 
-[Ver el caso de diseño ↗](https://www.behance.net/gallery/249672827/Cookpad-Rediseno-de-aplicacion-UXUI)
+[Ver el caso de diseño](https://www.behance.net/gallery/249672827/Cookpad-Rediseno-de-aplicacion-UXUI)
 
 ## Del diseño al prototipo
 
